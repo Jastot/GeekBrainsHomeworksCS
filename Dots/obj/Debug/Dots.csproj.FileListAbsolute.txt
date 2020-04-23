@@ -1,0 +1,9 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\bin\Debug\Dots.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\bin\Debug\Dots.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\bin\Debug\Dots.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\obj\Debug\Dots.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\obj\Debug\Dots.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\obj\Debug\Dots.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\bin\Debug\Library.dll
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\bin\Debug\Library.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Dots\obj\Debug\Dots.csproj.CopyComplete

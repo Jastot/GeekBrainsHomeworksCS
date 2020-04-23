@@ -1,0 +1,7 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\bin\Debug\Obmen.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\bin\Debug\Obmen.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\bin\Debug\Obmen.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\obj\Debug\Obmen.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\obj\Debug\Obmen.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\obj\Debug\Obmen.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Obmen\obj\Debug\Obmen.pdb
