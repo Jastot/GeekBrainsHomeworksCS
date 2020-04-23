@@ -1,0 +1,10 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\bin\Debug\Form.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\bin\Debug\Form.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\bin\Debug\Form.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\bin\Debug\Library.dll
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\bin\Debug\Library.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\obj\Debug\Form.csproj.CopyComplete
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\obj\Debug\Form.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Form\obj\Debug\Form.pdb
