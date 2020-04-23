@@ -1,0 +1,10 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\bin\Debug\IMT.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\bin\Debug\IMT.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\bin\Debug\IMT.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\bin\Debug\Library.dll
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\bin\Debug\Library.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\obj\Debug\IMT.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\obj\Debug\IMT.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\obj\Debug\IMT.csproj.CopyComplete
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\obj\Debug\IMT.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\IMT\obj\Debug\IMT.pdb
