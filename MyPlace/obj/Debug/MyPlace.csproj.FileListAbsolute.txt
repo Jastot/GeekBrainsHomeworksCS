@@ -1,6 +1,0 @@
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\bin\Debug\MyPlace.exe.config
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\bin\Debug\MyPlace.exe
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\bin\Debug\MyPlace.pdb
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\obj\Debug\MyPlace.csproj.CoreCompileInputs.cache
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\obj\Debug\MyPlace.exe
-C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\MyPlace\obj\Debug\MyPlace.pdb

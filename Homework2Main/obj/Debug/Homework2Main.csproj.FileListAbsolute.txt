@@ -1,0 +1,13 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\bin\Debug\Homework2Main.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\bin\Debug\Homework2Main.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\bin\Debug\Homework2Main.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\obj\Debug\Homework2Main.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\obj\Debug\Homework2Main.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework2Main\obj\Debug\Homework2Main.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\bin\Debug\Homework2Main.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\bin\Debug\Homework2Main.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\bin\Debug\Homework2Main.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\obj\Debug\Homework2Main.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\obj\Debug\Homework2Main.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\obj\Debug\Homework2Main.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework2Main\obj\Debug\Homework2Main.pdb
