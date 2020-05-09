@@ -1,0 +1,14 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\bin\Debug\Homework4.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\bin\Debug\Homework4.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\obj\Debug\Homework4.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\obj\Debug\Homework4.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\CS-1\Homework4\obj\Debug\Homework4.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\bin\Debug\Homework4.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\bin\Debug\Homework4.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\obj\Debug\Homework4.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\obj\Debug\Homework4.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework4\obj\Debug\Homework4.pdb
