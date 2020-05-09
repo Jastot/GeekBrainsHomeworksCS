@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2CB305A-6C8C-44AA-9803-29B253238A2C}</ProjectGuid>
+    <ProjectGuid>{FA6AF58E-EA05-4332-BCF8-5A1BB0B4599A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework3</RootNamespace>
-    <AssemblyName>Homework3</AssemblyName>
+    <RootNamespace>Homework4</RootNamespace>
+    <AssemblyName>Homework4</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,11 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Decimal.cs" />
+    <Compile Include="Array.cs" />
+    <Compile Include="CoupleArray.cs" />
+    <Compile Include="LogPass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Timecs.cs" />
-    <Compile Include="tryParse.cs" />
+    <Compile Include="TwoArraysFull.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
