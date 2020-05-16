@@ -1,0 +1,23 @@
+﻿20
+class Message
+{
+public static string[] splitedText;
+public static string fullText;
+public static int CreationMessage()
+Creationdessage
+CreasaonMessage
+{
+StreamReader sr = new StreamReader("dataM.txt");
+int N = int.Parse(sr.ReadLine());
+for (int i = 0; i < N; i++)
+{
+fullText = sr.ReadLine();
+splitedText = fullText.Split(' ');
+}
+for (int i = 0; i < N; i++)
+{
+Console.WriteLine(splitedText);
+}
+sr.Close();
+return 0;
+}

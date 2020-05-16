@@ -12,7 +12,9 @@ namespace Homework4
     partial class HW4
     {
         /*3. Решить задачу с логинами из предыдущего урока, только логины и пароли считать из файла в массив.
-         * Создайте структуру Account, содержащую Login и Password.*/
+         * Создайте структуру Account, содержащую Login и Password.
+         Чудаков Г.А.
+             */
         struct Account
         {
             //private string login, pass;
