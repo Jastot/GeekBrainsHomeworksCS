@@ -1,0 +1,7 @@
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\bin\Debug\Homework5.exe.config
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\bin\Debug\Homework5.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\bin\Debug\Homework5.pdb
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\obj\Debug\Homework5.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\obj\Debug\Homework5.exe
+C:\Users\georg\OneDrive\Рабочий стол\дз1\Урок\HW\GeekBrainsHomeworksCS\Homework5\obj\Debug\Homework5.pdb

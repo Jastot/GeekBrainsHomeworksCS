@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2CB305A-6C8C-44AA-9803-29B253238A2C}</ProjectGuid>
+    <ProjectGuid>{7367DE4E-10D4-43B1-AA03-2485F6E557B0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework3</RootNamespace>
-    <AssemblyName>Homework3</AssemblyName>
+    <RootNamespace>Homework5</RootNamespace>
+    <AssemblyName>Homework5</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,14 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Decimal.cs" />
+    <Compile Include="EGE.cs" />
+    <Compile Include="LogPass.cs" />
+    <Compile Include="Message.cs" />
+    <Compile Include="Polimorf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Timecs.cs" />
-    <Compile Include="tryParse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dataEGE.txt" />
+    <Content Include="dataM.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
